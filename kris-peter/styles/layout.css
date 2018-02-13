@@ -1,3 +1,10 @@
+.heading-group-h1 {
+  padding: 1% 0 0 1%;
+}
+
+.main-nav {
+  padding-bottom: 1%;
+}
 ul {
   list-style: none;
 }

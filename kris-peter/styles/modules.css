@@ -1,11 +1,15 @@
 .heading-group-h1 {
-  position: relative;  
+  /* position: relative;   */
+}
+
+header > section {
+  float: left
 }
 
 .icon-menu {
   visibility: visible;
   float: right;
-  position: absolute;
+  /* position: absolute; */
   font-size: 300%;
   top: 2%;
   right: 0;
